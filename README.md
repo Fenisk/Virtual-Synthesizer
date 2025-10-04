@@ -3,7 +3,7 @@
 A simple project written in **C++ (Visual Studio 2022)** that works as a virtual MIDI keyboard.  
 The program allows you to play sounds using your computer keyboard, record melodies, and save them in **.mid** format. A simple GUI is implemented using **.NET**.
 
----
+
 
 ## ✨ Features
 - 🎵 Play sounds using the PC keyboard  
@@ -12,7 +12,7 @@ The program allows you to play sounds using your computer keyboard, record melod
 - ⌨️ Customize key mappings (assign different keys for different notes)  
 - 🖥 Simple graphical interface built with **.NET**
 
----
+
 
 ## 🚀 How to Run
 1. Clone the repository:
@@ -23,7 +23,7 @@ The program allows you to play sounds using your computer keyboard, record melod
 3. Build and run the application.
 4. Use your keyboard or click on notes to play.
 
----
+
 
 ## 🛠 Technologies
 - C++17
@@ -31,7 +31,12 @@ The program allows you to play sounds using your computer keyboard, record melod
 - .NET for GUI
 - Standard C++ libraries
 
----
+
+
+## 📄 License
+This project is released under the MIT License, allowing anyone to freely use, modify, and distribute it.
+
+
 
 ## 📸 Screenshots
 
