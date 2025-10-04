@@ -35,4 +35,9 @@ The program allows you to play sounds using your computer keyboard, record melod
 
 ## 📸 Screenshots
 
-![screenshot](screenshot.png)
+*Main program window*
+![screenshot](images/virtual_synth.png)
+
+*Key mapping configuration window*
+![screenshot](images/settings.png)
+
